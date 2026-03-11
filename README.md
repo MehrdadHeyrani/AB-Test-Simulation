@@ -30,8 +30,8 @@ After analyzing 15,000 banking leads, the experiment resulted in a **Neutral-to-
 To understand why our experiment failed, we performed a deep-dive analysis.
 ### 1. Risk Profile (Adverse Selection Check)
 This plot confirms that our UI change did not attract higher-risk borrowers, as the credit score distributions remain balanced.
-![Risk Profile Plot](images/risk_profile.png)
+![Risk Profile Plot](P1.png)
 ### 2. Segmented Performance
 The global lift was negative, but this plot reveals the "hidden story": the new UI worked for younger users but failed significantly for the Senior segment.
-![Segmented Lift](images/segmented_lift.png)
+![Segmented Lift](P2.png)
 
