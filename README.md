@@ -25,7 +25,8 @@ After analyzing 15,000 banking leads simulated data, the experiment resulted in 
 
 ## Visual Analysis
 ### 1. Risk Profile (Adverse Selection Check)
-![Risk Profile Plot](P1.png)
+![Risk Profile Plot](P1.png) 
+
 ### 2. Segmented Performance
 ![Segmented Lift](P2.png)
 
